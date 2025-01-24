@@ -31,6 +31,6 @@ Ideas:
 				No \ Just /
 				No / Root New Root 0:\
 
-ProjectICE Is Comming Out Soon A Compiled Programing Lang Made For Fun Unknown Features
+ProjectICE Is Comming Out Not So Soon A Compiled Programing Lang Made For Fun Unknown Features
 
 Post An Issue To Talk About Anything Your Intressted In
