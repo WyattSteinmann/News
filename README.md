@@ -30,3 +30,7 @@ Ideas:
 			Path Idea:
 				No \ Just /
 				No / Root New Root 0:\
+
+ProjectICE Is Comming Out Soon A Compiled Programing Lang Made For Fun Unkonwn Features
+
+Post An Issue To Talk About Anything Your Intressted In
