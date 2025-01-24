@@ -14,10 +14,6 @@ Ideas:
 
 		Thats It RexOS Features So Far Planed
 
-		Simi Scraped Ideas:
-			ProjectGNUREX: // This Was Kinda Implemented With The Main Shell And RexEdit And ASMPlus - Nasm Like ASM Interpreter But Not Exactly The Same
-				Like GNU Project But For RexOS
-
 	Scraped Ideas:
 
 		RexHTML Idea: // No Takes A Long Time The Hard Truth Might Come Back To It But Prob Not By This I Mean Basicly No But 1% Chance I Might.
